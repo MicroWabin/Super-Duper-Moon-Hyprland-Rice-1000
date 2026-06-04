@@ -16,7 +16,7 @@ In this rice, I customized the following components:
 - Waybar
 - Wofi
 - Alacritty
-- Custom moon app-launcher made with Quickshell
+- Custom moon app-launcher (made with Quickshell)
 
 ## About my rice:
 
@@ -28,12 +28,16 @@ This was my first project using Quickshell, and most of the development time wen
 
 ## Keybinds:
 
+- Mod + Right Arrow: Move to next workspace 
+- Mod + Left Arrow: Move to previous workspace 
+- Mod + Shift + Right Arrow: Move window to next workspace
+- Mod + Shift + Left Arrow: Move window to previous workspace
 - Mod + Enter: Alacritty
 - Mod + Backspace: Quit
 - Mod + Space: Toggle Moon app-launcher
 - Mod + Shift + Space: Wofi
-- Mod + Tab + Shift: Toggle fullscreen
 - Mod + Tab: Toggle floating window
+- Mod + Tab + Shift: Toggle fullscreen
 - Mod + Left Click: Move window
 - Mod + Right Click: Resize window
 - Mod + Escape: Exit Hyprland

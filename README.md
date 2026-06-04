@@ -63,9 +63,9 @@ This was my first project using Quickshell, and most of the development time wen
 ## Installation:
 
 1. Clone the repository to your PC.
-2. Enter to the repository directory section called "dotfiles".
+2. Enter the "dotfiles" directory.
 3. Copy the files to `~/.config/`
-4. Download "Moon.webp" from releases and copy it to `~/.config/quickshell/` 
+4. Download "Moon.webp" from Releases and copy it to `~/.config/quickshell/` 
 5. Install the dependencies.
 6. Go to `~/.config/quickshell/` and edit the file "Config.qml". There you'll find instructions on how to add your own apps and commands to the moon widget.
 7. Go to `~/.config/waybar/scripts/` and edit the file "HeadphoneConnect.sh". Add the MAC address of your headphones.

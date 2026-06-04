@@ -14,21 +14,13 @@ In this rice I customized the following components based on my dotfiles:
 - Custom moon app-launcher made with Quickshell
 
 ## About my rice:
-The rice idea came principally from this image.
-(add image)
+I made a moon widget using quickshell that works as an app launcher and as shortcut for commands, It can be configured to do desktop actions, oppen specific webpages, and basically everithing.
 
-I chose a monochromatic color palete since it combines with the moon.
+I also customized programs as Wofi, Waybar and Alacritty. I chose a monochromatic color palete since it combines with the moon.
 
-I icluded the following components in Waybar (left to right):
-- Volume.
-- Custom button to conect to headphones.
-- Media player.
-- Custom moon app-launcher direct access (see video).
-- Hyprland Workspaces.
-- Battery.
-- Clock / date.
+This was my first time using Quickshell, I also had to lern a little bit about blender to do the moon. I hope you like this this rice as much as I liked doing it!
 
-## Dependencies
+## Dependencies:
 - hyprland
 - hyprpaper
 - waybar
@@ -44,3 +36,5 @@ I icluded the following components in Waybar (left to right):
 - hyprshot
 - ttf-nerdfonts
 - ttf-dejavu
+
+## Instalation

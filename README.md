@@ -4,6 +4,7 @@ Hello there! This is my Hyprland rice for the 5th ricing competition. I call it 
 It's a simple rice since I started a little late and I'm new to this, but I think it turned out really cool. 
 
 ## Preview:
+(add images)
 
 ## Riced Components:
 In this rice I customized the following components based on my dotfiles:
@@ -19,6 +20,17 @@ I made a moon widget using quickshell that works as an app launcher and as short
 I also customized programs as Wofi, Waybar and Alacritty. I chose a monochromatic color palete since it combines with the moon colors.
 
 This was my first time using Quickshell, I also had to lern a little bit about blender to do the moon. I hope you like this this rice as much as I liked doing it!
+
+## Keybinds:
+- Mod + Enter: Alacritty
+- Mod + Backspace: Quit
+- Mod + Space: Toggle Moon app-launcher
+- Mod + Shift + Space: Wofi
+- Mod + Tab + Shift: Toggle fullscreen
+- Mod + Tab: Toggle floating window
+- Mod + Left Click: Move window
+- Mod + Right Click: Resize window
+- Mod + Escape: Exit Hyprland
 
 ## Dependencies:
 - hyprland
@@ -38,3 +50,4 @@ This was my first time using Quickshell, I also had to lern a little bit about b
 - ttf-dejavu
 
 ## Instalation
+1. Clone repository to your PC with "git clone --depth 1 https://github.com/MicroWabin/Super-Duper-Moon-Hyprland-Rice-1000/"

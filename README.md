@@ -26,6 +26,10 @@ I also customized programs such as Wofi, Waybar, and Alacritty. I chose a monoch
 
 This was my first project using Quickshell, and most of the development time went into learning how to build the custom moon widget. I also had to learn a little bit about Blender to create the moon. I hope you enjoy this rice as much as I enjoyed making it!
 
+I took this image as inspiration:
+
+(add image)
+
 ## Keybinds:
 
 - Mod + Enter: Alacritty

@@ -10,7 +10,7 @@ It's a simple rice since I started a little late and I'm new to this, but I thin
 
 ## Customized Components:
 
-In this rice, I customized the following components based on my dotfiles:
+In this rice, I customized the following components:
 
 - Hyprland
 - Waybar

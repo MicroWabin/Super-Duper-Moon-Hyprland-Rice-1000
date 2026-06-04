@@ -24,11 +24,11 @@ I made a moon widget using Quickshell that works as both an app launcher and a c
 
 I also customized programs such as Wofi, Waybar, and Alacritty. I chose a monochromatic color palette since it matches the moon's colors.
 
-This was my first time using Quickshell. I also had to learn a little bit about Blender to create the moon. I hope you enjoy this rice as much as I enjoyed making it!
+This was my first project using Quickshell, and most of the development time went into learning how to build the custom moon widget. I also had to learn a little bit about Blender to create the moon. I hope you enjoy this rice as much as I enjoyed making it!
 
 ## Keybinds:
 
--  Mod + Enter: Alacritty
+- Mod + Enter: Alacritty
 - Mod + Backspace: Quit
 - Mod + Space: Toggle Moon app-launcher
 - Mod + Shift + Space: Wofi

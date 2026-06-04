@@ -50,4 +50,10 @@ This was my first time using Quickshell, I also had to lern a little bit about b
 - ttf-dejavu
 
 ## Instalation
-1. Clone repository to your PC with "git clone --depth 1 https://github.com/MicroWabin/Super-Duper-Moon-Hyprland-Rice-1000/"
+1. Clone repository to your PC with
+2. Enter to the repository directory.
+3. Copy files to ~/.config/
+4. Install the dependencies.
+5. Go to ~/.config/quickshell/ and edit the file "Config.qml", there you'll find the instructions to add your own apps and commands to the moon widget.
+6. Go to ~/.config/waybar/scripts/ and edit the file "HeadphoneConnect.sh", add the MAC direction of your headphones.
+7. (Optional) Go to ~/.config/hypr/scripts/ and edit the files "MaxWorkspaces.sh" and  "MoveMaxWorkspaces.sh", set the Max number of workspaces to be created.

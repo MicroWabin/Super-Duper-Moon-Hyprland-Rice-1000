@@ -56,4 +56,4 @@ This was my first time using Quickshell, I also had to lern a little bit about b
 4. Install the dependencies.
 5. Go to ~/.config/quickshell/ and edit the file "Config.qml", there you'll find the instructions to add your own apps and commands to the moon widget.
 6. Go to ~/.config/waybar/scripts/ and edit the file "HeadphoneConnect.sh", add the MAC direction of your headphones.
-7. (Optional) Go to ~/.config/hypr/scripts/ and edit the files "MaxWorkspaces.sh" and  "MoveMaxWorkspaces.sh", set the Max number of workspaces to be created.
+7. (Optional) Go to ~/.config/hypr/scripts/ and edit the files "MaxWorkspaces.sh" and  "MoveMaxWorkspaces.sh", set the Max number of workspaces to be created. (The default is 10)

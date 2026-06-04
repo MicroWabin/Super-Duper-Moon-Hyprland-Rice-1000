@@ -56,7 +56,7 @@ This was my first time using Quickshell. I also had to learn a little bit about 
 - ttf-nerdfonts
 - ttf-dejavu
 
-## Installation
+## Installation:
 
 1. Clone the repository to your PC.
 2. Enter the repository directory.

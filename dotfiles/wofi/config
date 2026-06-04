@@ -1,0 +1,14 @@
+show = drun
+
+orientation = vertical
+
+width = 1520
+height = 880
+
+columns = 2
+allow_images = true
+image_size = 100
+
+no_actions=true
+
+prompt = Search

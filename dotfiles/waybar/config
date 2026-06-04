@@ -1,0 +1,61 @@
+{
+	"layer": "top",
+	"position": "top",
+	"margin-top": 20,
+	"margin-left": 20,
+	"margin-right": 20,	
+	"margin-bottom": -10,
+	
+	"modules-left": ["pulseaudio", "custom/headphones", "group/multimedia"],
+
+	"modules-center": ["custom/launcher", "hyprland/workspaces"],
+	
+	"modules-right": ["battery", "clock"],
+
+	"pulseaudio" : {
+		"tooltip": false
+	},
+
+	"custom/launcher": {
+		"format": "",
+		"on-click": "~/.config/quickshell/scripts/WidgetOverlay.sh",
+		"tooltip": false
+	},
+
+	"clock": {
+		"format": " {:L%I:%M %p}",
+		"format-alt": "󰃭 {:%d/%m/%y}",
+		"on-click": "kill -SIGUSR1 $(pidof waybar)",
+		"tooltip": false
+	},
+
+	"group/multimedia": {
+		"orientation": "horizontal",
+		"modules": ["mpris#prev", "mpris", "mpris#next"]
+	},
+
+	"mpris#prev": {
+		"format": "⏮",
+		"on-click": "playerctl previous",
+		"tooltip": false
+	},
+
+	"mpris": {
+		"format": "{title} - {artist}",
+		"on-click": "playerctl play-pause",
+		"max-length": 25,
+		"tooltip-format": "Playing on {player}:\n{title} - {artist}"
+	},
+
+	"mpris#next": {
+		"format": "⏭",
+		"on-click": "playerctl next",
+		"tooltip": false
+	},
+
+	"custom/headphones": {
+		"format": "",
+		"on-click": "~/.config/waybar/scripts/HeadphoneConnect.sh",
+		"tooltip": false 
+	}
+}

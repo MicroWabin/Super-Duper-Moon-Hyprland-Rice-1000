@@ -1,0 +1,79 @@
+* {
+	font-size: 25px;
+}
+
+#waybar {
+	background: rgba(20, 20, 20, 0.9);
+	border-radius: 15px;
+}
+
+.modules-right, .modules-center, .modules-left {
+	margin: 5px;
+	background: rgba(40, 40, 40, 0.9);
+	border-radius: 10px;
+}
+
+#battery, #clock, #pulseaudio, #custom-launcher, #workspaces button, #multimedia, #custom-headphones {
+	padding: 5px 10px;
+	color: #ffffff;
+}
+
+#workspaces button {
+	background: transparent;
+	color: #787878;
+	border: none;
+	text-shadow: none;
+	box-shadow: none;
+	border-radius: 10px;
+}
+
+#workspaces button.active {
+	color: #ffffff; 
+}
+
+#workspaces button:hover {
+	background: rgba(60, 60, 60, 0.9);
+}
+
+#custom-launcher:hover {
+	background: rgba(60, 60, 60, 0.9);
+	border-radius: 10px;
+}
+
+tooltip {
+	color: #ffffff;
+	background: rgba(60, 60, 60, 0.9);
+	border: none;
+	border-radius: 15px;
+}
+
+#mpris {
+	padding: 0 10px;
+}
+
+#multimedia {
+	color: #787878;
+	border-radius: 10px;
+}
+
+#multimedia:hover {
+	background: rgba(60, 60, 60, 0.9);
+}
+
+#custom-headphones {
+	color: #787878;
+	border-radius: 10px;
+	padding: 0 10px;
+}
+
+#custom-headphones:hover {
+	background: rgba(60, 60, 60, 0.9);
+}
+
+#clock {
+	border-radius: 10px;
+}
+
+#clock:hover {
+	background: rgba(60, 60, 60, 0.9);
+}

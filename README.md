@@ -60,8 +60,8 @@ This was my first project using Quickshell, and most of the development time wen
 
 1. Clone the repository to your PC.
 2. Enter the repository directory.
-3. Copy the files to ~/.config/
+3. Copy the files to `~/.config/`
 4. Install the dependencies.
-5. Go to ~/.config/quickshell/ and edit the file "Config.qml". There you'll find instructions on how to add your own apps and commands to the moon widget.
-6. Go to ~/.config/waybar/scripts/ and edit the file "HeadphoneConnect.sh". Add the MAC address of your headphones.
-7. (Optional) Go to ~/.config/hypr/scripts/ and edit the files "MaxWorkspaces.sh" and "MoveMaxWorkspaces.sh". Set the maximum number of workspaces to be created. (The default is 10.)
+5. Go to `~/.config/quickshell/` and edit the file "Config.qml". There you'll find instructions on how to add your own apps and commands to the moon widget.
+6. Go to `~/.config/waybar/scripts/` and edit the file "HeadphoneConnect.sh". Add the MAC address of your headphones.
+7. (Optional) Go to `~/.config/hypr/scripts/` and edit the files "MaxWorkspaces.sh" and "MoveMaxWorkspaces.sh". Set the maximum number of workspaces to be created. (The default is 10.)

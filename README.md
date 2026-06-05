@@ -7,9 +7,9 @@ It's a simple rice since I started a little late and I'm new to this, but I thin
 ## Preview:
 
 ![Super Duper Desktop Image 1](/media/DesktopImg1.png)
-![Super Duper Desktop Image 1](/media/DesktopImg2.png)
-![Super Duper Desktop Image 1](/media/DesktopImg3.png)
-![Super Duper Desktop Image 1](/media/DesktopImg4.png)
+![Super Duper Desktop Image 2](/media/DesktopImg2.png)
+![Super Duper Desktop Image 3](/media/DesktopImg3.png)
+![Super Duper Desktop Image 4](/media/DesktopImg4.png)
 
 ## Customized Components:
 
